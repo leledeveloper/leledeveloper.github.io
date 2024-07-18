@@ -23,19 +23,6 @@ html,
             user-select: none;
         }
 
-        #avatar {
-            margin-left: auto;
-            margin-right: auto;
-            width: 128px;
-            height: 128px;
-        }
-
-        #avatar img {
-            width: 100%;
-            height: 100%;
-            border-radius: 110px;
-        }
-
         h1,
         h2 {
             position: relative;
@@ -51,15 +38,12 @@ html,
         }
 
         h2 {
-            color: #ddb39b;
+            color: black;
             font-weight: normal;
             font-size: 14px;
             letter-spacing: .12em;
             margin-bottom: 30px;
             left: 3px;
-        }
-        h3 {
-            color: red;
         }
 
         hr {
@@ -76,7 +60,7 @@ html,
         }
 
         #profile h3 {
-            color: grey;
+            color: black;
         }
 
         #profile span {
